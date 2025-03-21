@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#6553CA",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "注册",
+  "usingComponents": {
+    "multiple-select": "/components/momo-multipleSelect/momo-multipleSelect"
+  }
+}

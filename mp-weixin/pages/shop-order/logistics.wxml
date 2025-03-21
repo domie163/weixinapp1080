@@ -1,0 +1,1 @@
+<view><view class="cu-chat"><view><rich-text nodes="{{logistics}}"></rich-text></view></view></view>
